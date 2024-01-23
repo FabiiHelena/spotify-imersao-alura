@@ -3,9 +3,9 @@
 <h1 align="center">Projeto imersão Front-end ALURA 💙️ ᯤ Spotify</h1>
 
 <p align="center">
-   <a href="#-tecnologiasutilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-telainicialdoprojeto">Tela Inicial do Projeto</a>&nbsp;&nbsp;&nbsp;
+   <a href="#-tela-inicial-do-projeto">Tela Inicial do Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
